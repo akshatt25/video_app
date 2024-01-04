@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "795355479744",
+    "firebase_url": "https://infobyte-6ea57-default-rtdb.firebaseio.com",
+    "project_id": "infobyte-6ea57",
+    "storage_bucket": "infobyte-6ea57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795355479744:android:a84cc0f16eca080d9af725",
+        "android_client_info": {
+          "package_name": "com.example.infobyte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxNR54jYF84osa7GBLjuO1PSz5-r_5Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795355479744:android:d76bd7e3c0f4d2989af725",
+        "android_client_info": {
+          "package_name": "com.example.video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxNR54jYF84osa7GBLjuO1PSz5-r_5Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
